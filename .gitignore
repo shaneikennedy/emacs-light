@@ -1,0 +1,48 @@
+# Emacs
+*~
+\#*\#
+*.elc
+auto-save-list
+.\#*
+*~
+\#*\#
+elpa/
+quelpa/
+eshell/
+tramp
+places
+
+## projectile
+projectile.cache
+projectile-bookmarks.eld
+network-security.data
+
+## magithub
+magithub
+
+## Forge
+forge-database.sqlite
+
+custom.el
+
+## restclient
+url/
+request/
+
+## others
+.emacs.desktop
+.mc-lists.el
+abbrev_defs
+bookmarks
+srecode-map.el
+todo/
+transient/
+vendor/
+recentf
+smex-items
+
+## lsp
+.cache/
+.lsp-session-v1
+eclipse.jdt.ls
+workspace
