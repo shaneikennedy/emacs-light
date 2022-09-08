@@ -167,7 +167,7 @@
 ;; Begin evil config
 
 ;; Optional for vim users
-(use-package evil
-  :init
-  (evil-mode t))
+;; (use-package evil
+;;   :init
+;;   (evil-mode t))
 
